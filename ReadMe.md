@@ -20,7 +20,7 @@
 Напряжение замерялось через мультиметр DT9208 с входным сопротивление 10Мом и последовательно включенным ему набором резисторов 90Мом, показания прибора делились на 10.
 После из за выхода из строя прибора, было замеряно простым DT838 с входным сопротивлением 1Мом.
 
-![](https://raw.githubusercontent.com/74ls00/Geiger/master/r1v5.GIF)
+![](https://raw.githubusercontent.com/74ls00/Geiger/master/pic/r1v5.GIF)
 
-![](https://raw.githubusercontent.com/74ls00/Geiger/master/p.GIF)
+![](https://raw.githubusercontent.com/74ls00/Geiger/master/pic/p.GIF)
 
