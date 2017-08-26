@@ -6,10 +6,11 @@ NumPad_lay.dat
 NewLay2.dat
 run-port.bat
  
-
+tmp
+3.gif
+2.gif
+ 
 desktop.ini
-
-key-size.ods
 
 3d
 backup/
@@ -18,28 +19,6 @@ old/
 wiki/
 GameKB.wiki
 
-AvrUSB500_by_Petka_HEX_SRC_v8_uni
-Autoit
-
-leonardo
-
-hex2bin.exe
-
-b.bat
-
-PythonPortable
-
-dfu-programmer
-
-dfu-programmer-win-0.7.2
-
-boot
-
-GameKB
-~GameKB
-
-~bad
-~std
 
 Новый текстовый документ.txt
 
