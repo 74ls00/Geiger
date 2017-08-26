@@ -6,4 +6,4 @@
 
 Звуковой сигнализатор. Стрелочная индикация.
 
-![](https://github.com/74ls00/Geiger/pic/plata-top.jpg)
+![](https://raw.githubusercontent.com/74ls00/Geiger/master/pic/plata-top.jpg)
